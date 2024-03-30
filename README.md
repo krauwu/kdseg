@@ -1,6 +1,7 @@
-#  Cross-Image Relational Knowledge Distillation for Semantic Segmentation
+#  FEATURE COMPARE KD-SEG
 
-This repository contains the source code of CIRKD ([Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/pdf/2204.06986.pdf)) and implementations of semantic segmentation tasks on some datasets.
+This repository reference from CIRKD ([Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/pdf/2204.06986.pdf))
+And more code will update soon
 
 
 
