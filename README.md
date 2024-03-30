@@ -46,17 +46,6 @@ Support datasets:
 
 
 
-## Citation
-We would appreciate it if you could give this repo a star or cite our paper!
-```
-@inproceedings{yang2022cross,
-  title={Cross-image relational knowledge distillation for semantic segmentation},
-  author={Yang, Chuanguang and Zhou, Helong and An, Zhulin and Jiang, Xue and Xu, Yongjun and Zhang, Qian},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={12319--12328},
-  year={2022}
-}
-```
 
 
 
