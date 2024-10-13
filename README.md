@@ -1,7 +1,7 @@
 #  FEATURE COMPARE KD-SEG
 
-This repository reference from CIRKD ([Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/pdf/2204.06986.pdf))
-And more code will update soon
+Thanks to CIRKD ([Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/pdf/2204.06986.pdf))
+We propose a new kd seg structure base on their code
 
 
 
